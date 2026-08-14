@@ -1,0 +1,13 @@
+target,risk_tier,access_barrier,recommended_action,rows,weighted_population,observed_rate,avg_predicted_risk
+Next-year high medical expenditure,High prospective risk,No prior barrier,Proactive care management outreach,102,4353709.418638001,0.5608925614197136,0.5223010701900844
+Next-year high medical expenditure,High prospective risk,Prior cost/access barrier,Affordability navigation plus proactive care management,41,2031038.2588419998,0.5314811548121479,0.4936993009529582
+Next-year high medical expenditure,Moderate prospective risk,No prior barrier,Monitor,112,5582148.5140390005,0.1885402692730376,0.18078901849451035
+Next-year high medical expenditure,Moderate prospective risk,Prior cost/access barrier,Benefit education and access support,32,1357785.857078,0.21487397108986075,0.17587182055209574
+Next-year high medical expenditure,Lower prospective risk,No prior barrier,Monitor,366,25682826.792385,0.04599663271397619,0.03186598579591548
+Next-year high medical expenditure,Lower prospective risk,Prior cost/access barrier,Benefit education and access support,66,3082729.579613999,0.028766211854075047,0.03119347493609414
+Next-year high Rx out-of-pocket burden,High prospective risk,No prior barrier,Proactive care management outreach,68,3430101.214963001,0.5562785311982642,0.4792331558577619
+Next-year high Rx out-of-pocket burden,High prospective risk,Prior cost/access barrier,Affordability navigation plus proactive care management,24,1206555.49849,0.42618704968030274,0.45731297147615163
+Next-year high Rx out-of-pocket burden,Moderate prospective risk,Prior cost/access barrier,Benefit education and access support,18,659307.5959360001,0.13722404692237508,0.16102783322446979
+Next-year high Rx out-of-pocket burden,Moderate prospective risk,No prior barrier,Monitor,74,3936081.1510529993,0.11762757528846636,0.13095272891271928
+Next-year high Rx out-of-pocket burden,Lower prospective risk,Prior cost/access barrier,Benefit education and access support,54,2684209.981959,0.030309551767117554,0.03315820410362287
+Next-year high Rx out-of-pocket burden,Lower prospective risk,No prior barrier,Monitor,222,12386552.250303,0.02517587523698305,0.028330041131967538

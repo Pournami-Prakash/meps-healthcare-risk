@@ -1,0 +1,9 @@
+target,model,target_share,targeted_rows,weighted_population_targeted,capture_rate,precision
+Next-year high medical expenditure,Prospective random forest,0.05,36,1554504.7388620002,0.199350913939978,0.7868388535228414
+Next-year high medical expenditure,Prospective random forest,0.1,72,3234340.4090100005,0.39330981725881564,0.74611999083815
+Next-year high medical expenditure,Prospective random forest,0.2,144,6397828.581877998,0.5760613004578705,0.5524534841686073
+Next-year high medical expenditure,Prospective random forest,0.3,216,10289304.881412996,0.7328917352442926,0.4370321678024253
+Next-year high Rx out-of-pocket burden,Prospective random forest,0.05,23,1377663.7275420001,0.32363359154890176,0.7914218416661916
+Next-year high Rx out-of-pocket burden,Prospective random forest,0.1,46,2409582.587489,0.4748848253663873,0.6639633981241585
+Next-year high Rx out-of-pocket burden,Prospective random forest,0.2,92,4636656.713453,0.7190052443023545,0.5224259943311742
+Next-year high Rx out-of-pocket burden,Prospective random forest,0.3,138,7013678.081540001,0.8488037602390043,0.40771729037014964

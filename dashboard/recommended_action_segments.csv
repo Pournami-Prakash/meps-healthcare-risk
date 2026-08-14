@@ -1,0 +1,7 @@
+risk_tier,access_barrier,recommended_action,rows,weighted_population,weighted_high_cost_rate,avg_predicted_risk,avg_total_expenditure
+High cost risk,Cost/access barrier,Affordability navigation plus care management outreach,152,1683264.8367709997,0.6516647073506421,0.6172040688559223,29994.14863640892
+High cost risk,No reported barrier,Care management outreach,386,4480942.627556003,0.5307418708962877,0.5492072489987416,27024.553346316927
+Moderate cost risk,Cost/access barrier,Benefit education and access support,106,1392007.5948999994,0.07237357120112366,0.16011309086780356,8768.00864017074
+Moderate cost risk,No reported barrier,Monitor,432,5876075.764413999,0.1617271742488794,0.15780683110269442,11334.313654223723
+Lower cost risk,Cost/access barrier,Benefit education and access support,278,4008873.4618739975,0.022483990206282306,0.029947445738696492,2823.7402490526574
+Lower cost risk,No reported barrier,Monitor,1336,20478885.878492985,0.01684105620971309,0.02886330309632731,2579.3662268408466

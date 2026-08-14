@@ -1,0 +1,21 @@
+target,group_type,group,global_recall,group_specific_threshold,mitigated_recall,mitigated_precision
+Next-year high medical expenditure,Income,High Income,0.5745927135851514,0.10686223101588815,0.7151217374875247,0.3694981172763712
+Next-year high medical expenditure,Income,Low Income,0.8872755479210926,0.20719896243032856,0.7960671459390515,0.3974850271798185
+Next-year high medical expenditure,Income,Middle Income,0.7156919979357369,0.21705311605963706,0.7156919979357369,0.4978183634317185
+Next-year high medical expenditure,Income,Near Poor,1,0.4472830257483311,0.7889546179903089,0.9338396515010033
+Next-year high medical expenditure,Income,Poor/Negative,0.6364881802895814,0.2665260908209441,0.6364881802895814,0.49717387996545176
+Next-year high medical expenditure,Race/ethnicity,Hispanic,0.8566618792429421,0.23237597031451532,0.8231163510680608,0.7362932798548942
+Next-year high medical expenditure,Race/ethnicity,Non-Hispanic Asian,0,0.0015493006993006991,1,0.048089447602461984
+Next-year high medical expenditure,Race/ethnicity,Non-Hispanic Black,0.544363242558191,0.13770287846828091,0.5873489801476698,0.18658765492481988
+Next-year high medical expenditure,Race/ethnicity,Non-Hispanic Other/Multiple,0.5621462025004025,0.229167463822727,0.5621462025004025,0.6859852381204682
+Next-year high medical expenditure,Race/ethnicity,Non-Hispanic White,0.662961619589355,0.159619980840453,0.7272639909469768,0.43991305904849926
+Next-year high Rx out-of-pocket burden,Income,High Income,0.6844417493577699,0.17702361345225115,0.7332193518901206,0.46866958180995455
+Next-year high Rx out-of-pocket burden,Income,Low Income,1,0.337493255463147,0.8171153704998495,0.3394626044369308
+Next-year high Rx out-of-pocket burden,Income,Middle Income,0.8816275265791316,0.2275296945894663,0.8230778541235555,0.6698834235903895
+Next-year high Rx out-of-pocket burden,Income,Near Poor,0.13714617846327687,0.09861777313244033,0.28154060994483876,0.3305252803611012
+Next-year high Rx out-of-pocket burden,Income,Poor/Negative,0.7314163059370091,0.28153629963947313,0.7314163059370091,0.42176905394452296
+Next-year high Rx out-of-pocket burden,Race/ethnicity,Hispanic,0.3157709172431272,0.08106137700019284,0.8153409024325966,0.10241370372074057
+Next-year high Rx out-of-pocket burden,Race/ethnicity,Non-Hispanic Asian,NA,NA,NA,NA
+Next-year high Rx out-of-pocket burden,Race/ethnicity,Non-Hispanic Black,0.5510130065757177,0.17868458386943298,0.6048259904194222,0.41528530283929393
+Next-year high Rx out-of-pocket burden,Race/ethnicity,Non-Hispanic Other/Multiple,1,0.2643563913597582,0.5275274596566978,0.5633457464824418
+Next-year high Rx out-of-pocket burden,Race/ethnicity,Non-Hispanic White,0.7565836661697637,0.2274795715636275,0.732395528334507,0.5372405211941816

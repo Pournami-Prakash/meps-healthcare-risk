@@ -1,0 +1,25 @@
+# Data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+*.xlsx
+*.sas7bdat
+*.dta
+*.xpt
+*.zip
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+renv/staging/
+
+# Reports
+reports/*.html
+reports/*_files/
+Rplots.pdf
+
+# OS
+.DS_Store
