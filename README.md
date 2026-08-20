@@ -83,6 +83,20 @@ fairness checks, thresholds, and data sources. The
 [variable dictionary](docs/variable_dictionary.md) defines the analytical
 fields.
 
+## Reproduce the analysis
+
+Run the prospective pipeline from the repository root. The scripts download
+the required MEPS public-use files into the ignored `data/` directory:
+
+```bash
+Rscript R/99_install_packages.R
+Rscript R/07_make_prospective_dataset.R
+Rscript R/08_prospective_models.R
+```
+
+The remaining numbered scripts reproduce the supporting survey, expenditure,
+prescription-event, ROI, and dashboard exports.
+
 ## Data source
 
 [MEPS public-use files](https://meps.ahrq.gov/mepsweb/data_stats/download_data_files.jsp)
